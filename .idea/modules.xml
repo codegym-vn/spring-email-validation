@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-email-validation.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-email-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-email-validation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-email-validation_main.iml" group="spring-email-validation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-email-validation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-email-validation_test.iml" group="spring-email-validation" />
+    </modules>
+  </component>
+</project>
